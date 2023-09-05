@@ -4,9 +4,11 @@ This document contains Awesome & SOTA papers on the Fairness and Robustness of M
 
 ## Fair Machine Learning
 
-### Fairness metrics
+### Fairness Metrics
 1. 
 
 ### Supervised Methods
 
 ### Semi-supervised & Unsupervised Methods
+
+### Review
