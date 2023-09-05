@@ -11,4 +11,6 @@ This document contains Awesome & SOTA papers on the Fairness and Robustness of M
 
 ### Semi-supervised & Unsupervised Methods
 
+### Generative Models
+
 ### Review
