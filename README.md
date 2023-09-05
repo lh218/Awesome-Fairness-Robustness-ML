@@ -2,10 +2,11 @@
 
 This document contains Awesome & SOTA papers on the Fairness and Robustness of Machine Learning.
 
-# Fair Machine Learning
+## Fair Machine Learning
 
-1) Fairness metrics
+### Fairness metrics
+1. 
 
-3) Supervised Methods
+### Supervised Methods
 
-4) Semi-supervised & Unsupervised Methods
+### Semi-supervised & Unsupervised Methods
